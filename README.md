@@ -1,3 +1,3 @@
 # CSPC-301
 
-First day of class sample code
+First day of class reverseArray function
